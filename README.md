@@ -37,6 +37,12 @@
     <td>20.<img width="100" alt="2" src="https://github.com/tejth/CPP-Codes/assets/110801292/f4a790b3-67c0-4ed3-b256-ddd1066cc814"></td>
     <td>21.<img width="82" alt="3" src="https://github.com/tejth/CPP-Codes/assets/110801292/3fb8178a-0e77-4411-bd1d-04bd8205fbc2"></td>
   </tr>
+  <tr>
+    <td>  <img width="137" alt="1" src="https://github.com/tejth/CPP-Codes/assets/110801292/b671ea0a-9037-4288-85a8-b192cf231b05"> </td>
+    <td> <img width="78" alt="3" src="https://github.com/tejth/CPP-Codes/assets/110801292/619229d7-f561-41c2-a2b4-11995bb2712f"></td>
+    <td><img width="98" alt="4" src="https://github.com/tejth/CPPCodes/assets/110801292/7e168102-8ee3-4c61-8d72-e6685ee6ed8e">
+</td>
+  </tr>
 </table>
 
 
