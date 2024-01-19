@@ -40,7 +40,7 @@
   <tr>
     <td>22.<img width="137" alt="1" src="https://github.com/tejth/CPP-Codes/assets/110801292/b671ea0a-9037-4288-85a8-b192cf231b05"> </td>
     <td>23.<img width="78" alt="3" src="https://github.com/tejth/CPP-Codes/assets/110801292/619229d7-f561-41c2-a2b4-11995bb2712f"></td>
-    <td>24. <img width="98" alt="4" src="https://github.com/tejth/CPP-Codes/assets/110801292/2a94be65-ee17-4e3e-bb62-d32f068d0afc"></td>
+    <td>25. <img width="98" alt="4" src="https://github.com/tejth/CPP-Codes/assets/110801292/2a94be65-ee17-4e3e-bb62-d32f068d0afc"></td>
   </tr>
 </table>
 
