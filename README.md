@@ -42,6 +42,15 @@
     <td>23.<img width="78" alt="3" src="https://github.com/tejth/CPP-Codes/assets/110801292/619229d7-f561-41c2-a2b4-11995bb2712f"></td>
     <td>25. <img width="98" alt="4" src="https://github.com/tejth/CPP-Codes/assets/110801292/2a94be65-ee17-4e3e-bb62-d32f068d0afc"></td>
   </tr>
+  <tr>
+    <td>26. <img width="140" alt="99" src="https://github.com/tejth/CPP-Codes/assets/110801292/d868a5cb-5489-4a0d-81d5-bcaa81bc56dd"></td>
+    <td>27. <img width="91" alt="100 1" src="https://github.com/tejth/CPP-Codes/assets/110801292/6f6dd77a-1833-40df-b350-e5ac805138c6"></td>
+    <td>28.<img width="103" alt="101" src="https://github.com/tejth/CPP-Codes/assets/110801292/b5425d66-faea-4b03-a3c4-ad0f42541a72"></td>
+  </tr>
+  <tr>
+    <td>29.<img width="122" alt="102" src="https://github.com/tejth/CPP-Codes/assets/110801292/8a5916f4-0ee7-4189-a081-1740450e9048"></td>
+    <td>30.<img width="89" alt="103" src="https://github.com/tejth/CPP-Codes/assets/110801292/565e3f27-817d-4a7b-9d9f-ce8847948247"></td>
+  </tr>
 </table>
 
 
